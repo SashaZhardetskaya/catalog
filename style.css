@@ -1,0 +1,60 @@
+.title {
+	display: flex;
+	justify-content: center;
+	font-size: 28px;
+	font-weight: 100;
+	text-transform: uppercase;
+}
+
+.container {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	height: 455px;
+	width: 100%;
+	max-width: 1000px;
+	margin: auto;
+}
+
+.col-1 {
+	width: 25%;
+	height: 100%;
+	border: 1px solid;
+}
+
+.col-title {
+	display: flex;
+	justify-content: center;
+	width: 200px;
+	margin: auto;
+	border-bottom: 1px solid;
+}
+
+.img {
+	display: flex;
+	justify-content: center;
+}
+
+.item-name {
+	display: flex;
+	justify-content: center;
+	text-transform: uppercase;
+}
+
+.price {
+	display: flex;
+	justify-content: center;
+}
+
+button {
+	display: flex;
+	margin: auto;
+	justify-content: center;
+	width: 140px;
+	height: 40px;
+	text-transform: uppercase;
+}
+
+
+
+
